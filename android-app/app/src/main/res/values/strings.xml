@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CTTR HD Launcher</string>
+    <string name="title_main">Crash Tag Team Racing — لانچر HD</string>
+    <string name="btn_install">نصب تکسچرهای HD</string>
+    <string name="btn_launch">اجرای بازی (ایمولاتور)</string>
+    <string name="btn_demo">تست گیم‌پد (دمو)</string>
+    <string name="btn_settings">تنظیمات گیم‌پد</string>
+    <string name="hint_status">برای شروع، تکسچرها رو نصب کن یا گیم‌پد رو تست کن.</string>
+    <string name="hint_demo">استیک سمت چپ = حرکت، X = شتاب، □ = ترمز</string>
+    <string name="setting_opacity">شفافیت گیم‌پد</string>
+    <string name="setting_flip">گیم‌پد برای دست چپ</string>
+</resources>

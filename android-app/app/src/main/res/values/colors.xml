@@ -1,0 +1,6 @@
+<resources>
+    <color name="brand_orange">#FF8C00</color>
+    <color name="brand_purple">#3A1C5A</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ic_launcher_background">#3A1C5A</color>
+</resources>
